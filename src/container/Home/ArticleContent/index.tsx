@@ -1,4 +1,3 @@
-import React from 'react'
 import { Styles } from './Styles'
 import { STitle } from '../Styles'
 import BgTitle from '@/assets/images/bg-title.svg'
@@ -8,7 +7,7 @@ import ArticleImage2 from '@/assets/images/article-2.avif'
 import ArticleImage3 from '@/assets/images/article-3.avif'
 function ArticleContent() {
   return (
-    <Styles>
+    <Styles id='news'>
       <div className='container'>
         <div className='wrapper'>
           <div className='content'>

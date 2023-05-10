@@ -1,16 +1,12 @@
-import { Swiper, SwiperSlide } from 'swiper/react'
 import { Styles } from './Styles'
-
-// import { Navigation } from 'swiper'
 import RunningPersonIcon from '@/assets/icons/running-person-icon.svg'
 import RightIcon from '@/assets/icons/arrow-right-icon.svg'
-import BgAfter from '@/assets/images/after.svg'
 import RunningPersonImage from '@/assets/images/bg-practice.png'
 import { STitle } from '../Styles'
 import BgTitle from '@/assets/images/bg-title.svg'
 function AboutUsContent() {
   return (
-    <Styles>
+    <Styles id='aboutus'>
       <div className='content'>
         <div className='left-content'>
           <STitle mode='white'>

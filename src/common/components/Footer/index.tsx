@@ -1,4 +1,3 @@
-import React from 'react'
 import { Styles } from './Styles'
 import DumbbellIcon from '@/assets/icons/dumbbell-footer-icon.svg'
 import Input from '../Input'

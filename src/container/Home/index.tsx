@@ -1,4 +1,3 @@
-import React from 'react'
 import HeroContent from './HeroContent'
 import ClassContent from './ClassContent'
 import AboutUsContent from './AboutUsContent'

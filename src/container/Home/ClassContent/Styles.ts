@@ -1,7 +1,8 @@
 import styled from 'styled-components'
 
 export const Styles = styled.div`
-  padding: 260px 0 60px 0;
+  margin-top: 200px;
+  padding: 60px 0 60px 0;
   .content {
     h3 {
       font-family: 'Agency-Bold';

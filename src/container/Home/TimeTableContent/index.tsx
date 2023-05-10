@@ -1,10 +1,9 @@
-import React from 'react'
 import { Styles } from './Styles'
 import { STitle } from '../Styles'
 import BgTitle from '@/assets/images/bg-title.svg'
 function TimeTableContent() {
   return (
-    <Styles>
+    <Styles id='timetable'>
       <div className='container'>
         <div className='wrapper'>
           <div className='content'>

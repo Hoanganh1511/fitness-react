@@ -1,4 +1,3 @@
-import React from 'react'
 import { Styles } from './Styles'
 import Input from '@/common/components/Input'
 import ShadowBMI from '@/assets/images/shadow-bmi.png'
@@ -14,7 +13,7 @@ import { Swiper, SwiperSlide } from 'swiper/react'
 import { Navigation } from 'swiper'
 function HeroContent() {
   return (
-    <Styles>
+    <Styles id='hero'>
       <div className='container'>
         <div className='wrapper'>
           <div className='content'>

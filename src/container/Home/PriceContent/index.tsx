@@ -1,7 +1,4 @@
-import React from 'react'
 import { Styles } from './Styles'
-import { STitle } from '../Styles'
-import BgTitle from '@/assets/images/bg-title.svg'
 import CheckIcon from '@/assets/icons/check-icon.svg'
 function PriceContent() {
   return (

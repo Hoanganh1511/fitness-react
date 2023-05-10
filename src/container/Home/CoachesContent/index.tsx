@@ -1,4 +1,3 @@
-import React from 'react'
 import { Styles } from './Styles'
 import { STitle } from '../Styles'
 import { Swiper, SwiperSlide } from 'swiper/react'
@@ -20,7 +19,7 @@ import UserIcon from '@/assets/icons/user-icon.svg'
 import DumbbellIcon from '@/assets/icons/dumbbell-icon.svg'
 function CoachesContent() {
   return (
-    <Styles>
+    <Styles id='coaches'>
       <div className='content'>
         <STitle>
           Coaches

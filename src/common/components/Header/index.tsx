@@ -1,4 +1,3 @@
-import React from 'react'
 import { Styles } from './Styles'
 import TaIcon from '@/assets/icons/ta.svg'
 import LocationIcon from '@/assets/icons/location-icon.svg'
@@ -78,22 +77,26 @@ function Header() {
             <nav>
               <ul>
                 <li>
-                  <a href=''>Home</a>
+                  <a href='#hero'>Home</a>
                 </li>
                 <li>
-                  <a href=''>Pages</a>
+                  <a href='#classes'>Classes</a>
                 </li>
                 <li>
-                  <a href=''>Portfolio</a>
+                  <a href='#aboutus'>About Us</a>
                 </li>
                 <li>
-                  <a href=''>Classes</a>
+                  <a href='#timetable'>Time Table</a>
+                </li>
+
+                <li>
+                  <a href='#testimonial'>Testimonial</a>
                 </li>
                 <li>
-                  <a href=''>Blog</a>
+                  <a href='#coaches'>Coaches</a>
                 </li>
                 <li>
-                  <a href=''>Contacts</a>
+                  <a href='#news'>News</a>
                 </li>
               </ul>
             </nav>

@@ -1,15 +1,13 @@
-import React from 'react'
 import { Styles } from './Styles'
 import { STitle } from '../Styles'
 import BgTitle from '@/assets/images/bg-title.svg'
 import Avatar from '@/assets/images/bg-class-2.avif'
 import StarIcon from '@/assets/icons/star-icon.svg'
-
 import LeftIcon from '@/assets/icons/arrow-left-special-icon.svg'
 import RightIcon from '@/assets/icons/arrow-right-special-icon.svg'
 function TestimonialContent() {
   return (
-    <Styles>
+    <Styles id='testimonial'>
       <div className='container'>
         <div className='wrapper'>
           <div className='content'>

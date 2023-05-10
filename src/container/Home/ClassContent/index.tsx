@@ -1,6 +1,5 @@
 import { Styles } from './Styles'
 
-// import { Navigation } from 'swiper'
 import BgClass1 from '@/assets/images/bg-class.avif'
 import BgClass2 from '@/assets/images/bg-class-2.avif'
 import BgClass3 from '@/assets/images/bg-class-3.avif'
@@ -10,7 +9,7 @@ import BgTitle from '@/assets/images/bg-title.svg'
 import { STitle } from '../Styles'
 function ClassContent() {
   return (
-    <Styles>
+    <Styles id='classes'>
       <div className='container'>
         <div className='wrapper'>
           <div className='content'>
