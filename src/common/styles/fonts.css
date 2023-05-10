@@ -1,0 +1,48 @@
+/* Font */
+@font-face {
+  font-family: 'Poppins';
+  font-display: swap;
+  src: url('@/assets/fonts/Poppins-Regular.ttf');
+}
+@font-face {
+  font-family: 'Poppins-Light';
+  font-display: swap;
+  src: url('@/assets/fonts/Poppins-Light.ttf');
+}
+@font-face {
+  font-family: 'Poppins-SemiBold';
+  font-display: swap;
+  src: url('@/assets/fonts/Poppins-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Poppins-Bold';
+  font-display: swap;
+  src: url('@/assets/fonts/Poppins-Bold.ttf');
+}
+/* Mulish */
+@font-face {
+  font-family: 'Mulish';
+  font-display: swap;
+  src: url('@/assets/fonts/mulish-font/Mulish-Regular.ttf');
+}
+@font-face {
+  font-family: 'Mulish-SemiBold';
+  font-display: swap;
+  src: url('@/assets/fonts/mulish-font/Mulish-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Mulish-Bold';
+  font-display: swap;
+  src: url('@/assets/fonts/mulish-font/Mulish-Bold.ttf');
+}
+/* Agency */
+@font-face {
+  font-family: 'Agency';
+  font-display: swap;
+  src: url('@/assets/fonts/agency-font/SVN-Agency-FB.ttf');
+}
+@font-face {
+  font-family: 'Agency-Bold';
+  font-display: swap;
+  src: url('@/assets/fonts/agency-font/SVN-Agency-FB-Bold.ttf');
+}
